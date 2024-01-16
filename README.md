@@ -29,7 +29,7 @@ To get started, clone this repository and open it in Unreal Engine 5.3.2. The pr
 As this project is continually evolving, contributions are welcome. Whether it's adding new Blueprints, refining existing ones, or suggesting improvements, feel free to fork the repository and submit your pull requests.
 
 ## License
-This project is open-source and available under the [license name]. See the LICENSE file for more details.
+This project is open-source and available under the MIT License. See the LICENSE file for more details.
 
 ## Acknowledgements
 - Thanks to Epic Games for the third-person template.
