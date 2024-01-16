@@ -21,7 +21,7 @@ To get started, clone this repository and open it in Unreal Engine 5.3.2. The pr
 - Basic understanding of UE5 project structure
 
 ### Installation
-1. Clone the repository: `git clone [repository URL]`
+1. Clone the repository: `git clone https://github.com/lostcrowgames/EssentialUE5BPs`
 2. Open the project in Unreal Engine 5.3.2+.
 3. Explore the Blueprints and integrate them into your project as needed.
 
