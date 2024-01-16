@@ -1,7 +1,7 @@
-# Essential Unreal Engine 4 Blueprints (EssentialUE5BPs)
+# Essential Unreal Engine 5 Blueprints (EssentialUE5BPs)
 
 ## Overview
-Welcome to `Essential Unreal Engine 4 Blueprints (EssentialUE5BPs)`, a comprehensive repository of essential Unreal Engine 5.3.2 Blueprints! This project aims to provide a single, versatile resource for various useful Blueprints, enhancing the development process for UE5 projects. Based on the third-person template provided by Epic Games, `EssentialUE5BPs` is designed to be modular and easy to integrate into your projects.
+Welcome to `Essential Unreal Engine 5 Blueprints (EssentialUE5BPs)`, a comprehensive repository of essential Unreal Engine 5.3.2 Blueprints! This project aims to provide a single, versatile resource for various useful Blueprints, enhancing the development process for UE5 projects. Based on the third-person template provided by Epic Games, `EssentialUE5BPs` is designed to be modular and easy to integrate into your projects.
 
 ## Current Features
 - **Third-Person Camera Zoom**: Intuitive controls for zooming in and out in a third-person perspective.
